@@ -29,7 +29,7 @@ I love automating stuff.
 
 **Talking about Personal Stuffs:**
 
-- 🛠 Currently working with Node.js, electron.js, Django and Flutter; 
+- 🛠 Currently working with React.js, Django and Node.js; 
 - 👨🏻‍💻 I’m looking to collaborate on cool products;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I get shit done;
